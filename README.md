@@ -42,4 +42,3 @@ Agradecimientos a Sebastián Muñoz por tutorial y ejemplos eye-tracker.
 
 ---
 
-> “Integrando neurociencia, ingeniería y políticas públicas para entender el comportamiento humano en la movilidad.”
