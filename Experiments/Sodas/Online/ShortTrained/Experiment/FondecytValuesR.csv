@@ -1,0 +1,13 @@
+prodID1,product1_Quality,product1_Brand_Rep,product1_Price,product1_Sugar,prodID2,product2_Quality,product2_Brand_Rep,product2_Price,product2_Sugar
+1,Very bad,Very good,$1.49,30%,2,Bad,Good,$1.99,20%
+4,Good,Bad,$2.99,0%,2,Bad,Good,$1.99,20%
+3,Okay,Okay,$2.49,10%,4,Good,Bad,$2.99,0%
+1,Very bad,Very good,$1.49,30%,4,Good,Bad,$2.99,0%
+4,Good,Bad,$2.99,0%,1,Very bad,Very good,$1.49,30%
+3,Okay,Okay,$2.49,10%,2,Bad,Good,$1.99,20%
+1,Very bad,Very good,$1.49,30%,3,Okay,Okay,$2.49,10%
+4,Good,Bad,$2.99,0%,3,Okay,Okay,$2.49,10%
+2,Bad,Good,$1.99,20%,1,Very bad,Very good,$1.49,30%
+3,Okay,Okay,$2.49,10%,1,Very bad,Very good,$1.49,30%
+2,Bad,Good,$1.99,20%,4,Good,Bad,$2.99,0%
+2,Bad,Good,$1.99,20%,3,Okay,Okay,$2.49,10%
