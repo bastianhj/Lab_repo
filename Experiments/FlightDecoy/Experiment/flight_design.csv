@@ -1,0 +1,4 @@
+Service1Name,Service1LogoFile,Service1Price,Service1Offset Emissions,Service2Name,Service2LogoFile,Service2Price,Service2Offset Emissions,Service3Name,Service3LogoFile,Service3price,Service3Offset Emissions
+"Alpha","logos/airline_alpha_logo.png",5,103.68,"Betha","logos/airline_betha_logo.png",10,145.12,"Gamma","logos/airline_gamma_logo.png",5,106.12
+"Alpha","logos/airline_alpha_logo.png",10,103.68,"Betha","logos/airline_betha_logo.png",10,145.12,"Gamma","logos/airline_gamma_logo.png",5,116.12
+"Alpha","logos/airline_alpha_logo.png",7,103.68,"Betha","logos/airline_betha_logo.png",10,145.12,"Gamma","logos/airline_gamma_logo.png",7,104.51
